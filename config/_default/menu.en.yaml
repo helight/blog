@@ -1,6 +1,19 @@
 main:
-  - name: Documentations
-    identifier: documentations
-    url: https://hbs.razonyang.com/v1/en/docs/
+  - name: projects
+    identifier: projects
+    url: projects/
+    weight: 4
     params:
-      icon: '<i class="fas fa-fw fa-book"></i>'
+      icon: '<i class="fas fa-fw fa-code"></i>'
+  - name: About
+    identifier: about
+    url: about/
+    weight: 5
+    params:
+      icon: '<i class="fas fa-fw fa-user"></i>'
+  - name: Github
+    identifier: Github
+    weight: 5
+    url: https://github.com/helight
+    params:
+      icon: '<i class="fab fa-fw fa-github"></i>'

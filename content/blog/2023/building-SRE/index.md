@@ -7,6 +7,9 @@ banner: "img/banners/kubernetes.jpeg"
 author: "helight"
 authorlink: "http://helight.cn"
 summary: ""
+carousel: true
+params:
+  images: [news/2022/07/more-image-processing-methods/123.png]
 keywords: ["DevOps", "SRE"]
 draft: true
 ---

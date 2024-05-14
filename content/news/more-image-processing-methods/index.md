@@ -9,6 +9,8 @@ toc: true
 reward: true
 pinned: false
 carousel: true
+params:
+  images: [news/2022/07/more-image-processing-methods/123.png]
 series:
   - News
 categories:
